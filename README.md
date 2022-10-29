@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jakovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakovid)](https://github.com/jakovid/github-readme-stats)
+[![Jakovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakovid)](https://github.com/jakovid/github-readme-stats&count_private=true)
 
 
 <!--
