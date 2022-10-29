@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Jacob, and I am a front end developer that enjoys creating with JS languages.
 
 ### Stats 📈
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jakovid&theme=highcontrast)](https://git.io/streak-stats)
