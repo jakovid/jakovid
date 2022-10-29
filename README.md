@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Jakovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakovid)](https://github.com/jakovid/github-readme-stats&count_private=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jakovid&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **jakovid/jakovid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
