@@ -3,7 +3,7 @@ My name is Jacob, and I am a front end developer that enjoys creating with JS la
 
 ### Stats 📈
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jakovid&theme=highcontrast)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakovid)](https://github.com/jakovid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakovid&theme=highcontrast)](https://github.com/jakovid/github-readme-stats)
 
 <!--
 **jakovid/jakovid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
