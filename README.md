@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">A frontend developer from the USA</h3>
+<h3 align="center">A frontend developer living in Taipei.</h3>
 
 - 🌱 I’m currently learning **NodeJS, MongoDB, and Express.**
 
