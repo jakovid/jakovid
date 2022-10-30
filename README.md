@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A frontend developer from the USA</h3>
 
-- 🌱 I’m currently learning **NodeJS.**
+- 🌱 I’m currently learning **NodeJS, MongoDB, and Express.**
 
 - 💬 Ask me about **CSS, HTML, Vanilla JS, and ReactJS.**
 
