@@ -16,3 +16,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakovid&" alt="jakovid" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakovid&layout=compact)](https://github.com/jakovid/github-readme-stats)
+
