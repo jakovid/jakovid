@@ -2,7 +2,7 @@
 
 **`I like to build things`**
 
-I'm a full-stack developer. I'll update this late and write a whole bunch more here.
+I'm a self-taught full-stack developer.
 
    <p align="left">
       <a href="https://github.com/jakovid?tab=followers">
