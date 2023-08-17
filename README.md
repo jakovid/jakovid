@@ -41,6 +41,6 @@ I'm a self-taught full-stack developer.
 
 <details>
  <summary><h3>👨‍💻 Jacob's Coding Journey</h3></summary>
-   I'll write stuff late lol.
+   I'll write stuff here when I get a chance.
 
 [youtube]: https://youtube.com/
