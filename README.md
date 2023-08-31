@@ -2,7 +2,7 @@
 
 **`I like to build things`**
 
-I'm a self-taught full-stack developer. I love building projects from the ground up.
+I'm a self-taught full-stack developer that has built various projects with the MERN stack. I am currently focused on using the new T3 stack and delving into the realm of data structures and algorithms. Hooray.
 
    <p align="left">
       <a href="https://github.com/jakovid?tab=followers">
@@ -41,6 +41,6 @@ I'm a self-taught full-stack developer. I love building projects from the ground
 
 <details>
  <summary><h3>👨‍💻 Jacob's Coding Journey</h3></summary>
-   I'll write stuff here when I get a chance.
+   I started out building websites with various CMS platforms, including Shopify, Wordpress, and Wix.
 
 [youtube]: https://youtube.com/
