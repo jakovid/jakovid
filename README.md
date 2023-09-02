@@ -41,6 +41,6 @@ I'm a self-taught full-stack developer that has built various projects with the 
 
 <details>
  <summary><h3>👨‍💻 Jacob's Coding Journey</h3></summary>
-   I started out building websites with various CMS platforms, including Shopify, Wordpress, and Wix.
+   I started out building websites with various CMS platforms, including Shopify, Wordpress, and Wix. From there, I took the self-study route using The Odin Project to learn some common languages (CSS, HTML, JavaScript, React, Node.JS, and Express), and tools (MongoDB, and Jest). I have built plenty of personal and freelance projects over the past two years, and recently became a part of a fellowship for programmers in order to learn data structures and algorithms with the goal of landing a full-time programming role.
 
 [youtube]: https://youtube.com/
