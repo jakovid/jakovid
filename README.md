@@ -2,7 +2,7 @@
 
 **`I like to build digital products`**
 
-I'm a self-taught full-stack developer that has built various projects with the MERN stack. I am currently focused on using the new T3 stack and delving into the realm of data structures and algorithms. I spent the past 8 years in Shanghai and Taipei, and recently returned to the states to get a full time full stack developer role. Follow me on my journey!
+I'm a self-taught full-stack developer that has built various projects with the MERN stack. I am currently focused on using the new T3 stack and delving into the realm of data structures and algorithms. I spent the past 8 years in Shanghai and Taipei, and recently returned to the states to get a full time full stack developer role. Feel free to reach out to me if you have any tips or recommendations!
 
    <p align="left">
       <a href="https://github.com/jakovid?tab=followers">
