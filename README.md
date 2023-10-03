@@ -2,7 +2,7 @@
 
 **`I like to build digital products`**
 
-I'm a self-taught full-stack developer who has built various projects with the MERN stack. I am currently focused on expanding my experience with Next.js and delving into the realm of data structures and algorithms. I spent the past 8 years in Shanghai and Taipei, and recently returned to the states in search of a full time full stack developer role in the healthcare, education, or entertainment services industries. Feel free to reach out to me to learn more or chat.
+I'm a self-taught full-stack developer who has built various projects with the MERN stack. I am currently focused on expanding my experience with Next.js and delving into the realm of data structures and algorithms. After spending the past 8 years in Shanghai and Taipei, and I recently returned to the USA in search of a full-time full-stack developer role in the healthcare, education, or entertainment services industries. Feel free to reach out to me to learn more or chat.
 
    <p align="left">
       <a href="https://github.com/jakovid?tab=followers">
