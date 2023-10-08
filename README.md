@@ -5,10 +5,11 @@
 I'm a globetrotting, self-taught full-stack developer with a deep-rooted passion for creating digital solutions. Over the years, I've honed my skills with the MERN stack, and I'm currently embracing the capabilities of Next.js and Tailwind. My journey in coding has taken me from the bustling streets of Shanghai and Taipei back to the USA. As I further my expertise in data structures and algorithms, I'm on the lookout for full-time opportunities in the healthcare, education, or entertainment services sectors. Beyond coding, I wear the hat of a content creator, meticulously crafting tech-centric videos and articles. Dive into my world by checking out my YouTube channel or subscribing to my blog/newsletter. Let's connect and explore the vast realm of possibilities in this digital age.
 
    <p align="left">
+      <a href="https://www.youtube.com/c/web3idiots?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/jakovid?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jakovid?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/jakovid?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jakvoid?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      
    </p>
 
 ---
