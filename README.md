@@ -2,7 +2,7 @@
 
 **`I like to build digital products`**
 
-I'm a self-taught full-stack developer who has built various projects with the MERN stack. I am currently focused on expanding my experience with Next.js and delving into the realm of data structures and algorithms. After spending the past 8 years in Shanghai and Taipei, and I recently returned to the USA in search of a full-time full-stack developer role in the healthcare, education, or entertainment services industries. Feel free to reach out to me to learn more or chat.
+I'm a globetrotting, self-taught full-stack developer with a deep-rooted passion for creating digital solutions. Over the years, I've honed my skills with the MERN stack, and I'm currently embracing the capabilities of Next.js and Tailwind. My journey in coding has taken me from the bustling streets of Shanghai and Taipei back to the USA. As I further my expertise in data structures and algorithms, I'm on the lookout for full-time opportunities in the healthcare, education, or entertainment services sectors. Beyond coding, I wear the hat of a content creator, meticulously crafting tech-centric videos and articles. Dive into my world by checking out my YouTube channel or subscribing to my blog/newsletter. Let's connect and explore the vast realm of possibilities in this digital age.
 
    <p align="left">
       <a href="https://github.com/jakovid?tab=followers">
@@ -41,6 +41,9 @@ I'm a self-taught full-stack developer who has built various projects with the M
 
 <details>
  <summary><h3>👨‍💻 Jacob's Coding Journey</h3></summary>
-   I started out building websites with various CMS platforms, including Shopify, Wordpress, and Wix. I spent some time learning simple HTML and CSS in order to make my CMS sites look a bit more unique, and while I was doing that I discovered my interest in programming. From there, I took the self-study route using Free Code Camp and Code Academy on and off again before moving on to The Odin Project to learn some common languages (Advanced CSS, Advanced HTML, JavaScript, React, Node.JS, and Express), and tools (MongoDB, and Jest). In the past two years I have built a couple of freelance projects and figured out that programming is something I would like to do for the rest of my life. In order to make my dream come true, I have recently joined a programming fellowship at Formation to learn from experienced programmers with the end goal of gaining full-time employment where I can help build projects and get some great mentorship.
+   
+Certainly! Here's a refined version of your coding journey:
+
+My coding odyssey began with crafting bespoke sites on CMS platforms like Shopify, WordPress, and Wix. As I dabbled with HTML and CSS to sprinkle a unique touch on these sites, I unearthed a burgeoning passion for programming. Guided by my newfound enthusiasm, I embarked on a self-directed learning voyage, exploring resources like Free Code Camp and Codecademy. My thirst for knowledge led me to The Odin Project, where I delved deeper into programming languages like Advanced CSS, HTML, JavaScript, React, and Node.JS, while also familiarizing myself with tools such as MongoDB and Jest. Over the past two years, my freelance projects became testaments to my growth and solidified my resolve to commit to programming for life. Chasing this dream, I've aligned myself with the programming fellowship at Formation, eager to absorb wisdom from seasoned developers and ultimately find a full-time role where I can both contribute to meaningful projects and thrive under invaluable mentorship. As the youngest in a long line of coal miners, it was my destiny to hashtag learn to code.
 
 [youtube]: https://www.youtube.com/@web3idiots
