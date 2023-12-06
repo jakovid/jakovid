@@ -2,7 +2,7 @@
 
 **`I like to build cool things`**
 
-I'm a self-taught full-stack developer with a passion for creating digital products. Over the years, I've honed my skills in SWE with the MERN stack, and I'm currently focused on building with Next.js, Node and Tailwind. My journey in coding has taken me from some of the largest cities in Asia back to the USA. As I further my expertise in data structures and algorithms, I'm on the lookout for full-time opportunities. Beyond coding, I craft tech-centric videos and articles with a dash of humor. Dive into my world by checking out my weekly videos on my YouTube channel or my weekly articles on my blog. Let's connect!
+I'm a self-taught full-stack developer with a passion for creating digital products. Over the years, I've honed my skills in SWE with the MERN stack, and I'm currently focused on building with Next.js, Node and Tailwind. My journey has taken me from some of the largest cities around the world. As I further my expertise in data structures and algorithms, I'm on the lookout for full-time opportunities. Beyond coding, I craft tech-centric videos and articles with a dash of humor. Dive into my world by checking out my weekly videos on my YouTube channel or my weekly articles on my blog. Let's connect!
 
    <p align="left">
       <a href="https://www.youtube.com/@web3idiots?sub_confirmation=1">
