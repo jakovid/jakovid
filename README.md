@@ -1,8 +1,10 @@
 # 🛫 Jacob Dowdle 🛬
 
-**`I like to build cool things`**
+**`I like to create things for public use`**
 
-I'm a self-taught full-stack developer that likes building with new languages. My journey has taken me from some of the largest cities around the world. As I further my expertise in data structures and algorithms, I'm on the lookout for full-time opportunities. I am currently working on a handfull of open source projects as a member of Mikan Labs in an attempt to build a resume that isn't immediately thrown in the garbage. Beyond coding, I craft tech-centric videos and articles with a dash of humor. Dive into my world by checking out my daily videos on my YouTube channel or my upcoming weekly articles on my blog. Let's connect!
+I'm a self-taught full-stack developer that likes building with new languages. My personal journey has taken me to some of the largest cities around the world, and I love meeting new people. As I further my expertise in DSA, I'm on the lookout for full-time opportunities while working as a part-time technical skills assessor at Scale AI. I am currently working on a handful of open source projects as a member of Mikan Labs, with the goal of making products that are easy to integrate and deploy.
+
+Beyond coding professionally, I create educational JavaScript focused videos over on my YouTube channel in an effort to repay my debt to the tech world that helped me build my skills for free, and tech focused articles over at Dev Design Daily that tackle some more niche issues.
 
    <p align="left">
       <a href="https://www.youtube.com/@web3idiots?sub_confirmation=1">
@@ -25,7 +27,7 @@ I'm a self-taught full-stack developer that likes building with new languages. M
 <img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />        
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
