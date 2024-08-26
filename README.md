@@ -1,6 +1,6 @@
 # 🛫 Jacob Dowdle 🛬
 
-**`I like to create things for public use`**
+**`I like to create things`**
 
 I'm a self-taught full-stack developer that likes building with new languages. My personal journey has taken me to some of the largest cities around the world, and I love meeting new people. I have held a variety of freelance positions, ranging from working as a full stack solo dev for a small education company to working as a `Technical Skills Assessor` for `Scale AI`. I will be joining `Meta Platforms, Inc.` as a `Rotational Engineer` in October, and while I wait I am currently working on a handful of open source projects as a member of Mikan Labs, with the goal of making products that are easy for the public to integrate and deploy.
 
