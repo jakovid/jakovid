@@ -1,6 +1,6 @@
 # 🛫 Jacob Dowdle 🌏 Web3 Idiots 🛬
 
-**`Digital Artisan`**
+**`Digital Artisan (Developer/Writer/Creator)`**
 
 I am a self-taught software engineer that enjoys experimenting with new technologies, tools, and languages. My life has taken me to some of the largest cities in the world, where I was able to solve a wide variety of software engineering problems across multiple industries and tech stacks. After helping the team at `Scale AI` qualify prospective machine learning and software engineering candidates, the next and hopefully final stop on my journey will be to `Meta Platforms, Inc.` as a `Rotational Engineer`. I am currently spending my freetime working on open source projects as a member of `Mikan Labs` and building `Reclaimia`, a turn-based strategy game I am making with plain old React. (Why plain old React? I was told it was not possible to create a game like this with it. I want to test the validity of that statement.)
 
