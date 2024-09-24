@@ -1,4 +1,4 @@
-# 🛫 Jacob Dowdle - Web3 Idiots 🛬
+# 🛫 Jacob Dowdle 🌏 Web3 Idiots 🛬
 
 **`Digital Artisan`**
 
