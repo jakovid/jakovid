@@ -1,10 +1,10 @@
-# 🛫 Jacob Dowdle 🛬
+# 🛫 Jacob Dowdle - Web3 Idiots 🛬
 
-**`I like to create things`**
+**`Digital Artisan`**
 
-I'm a self-taught full-stack developer that likes building with new languages. My personal journey has taken me to some of the largest cities around the world, and I love meeting new people. I have held a variety of freelance positions, ranging from working as a full stack solo dev for a small education company to working as a `Technical Skills Assessor` for `Scale AI`. I will be joining `Meta Platforms, Inc.` as a `Rotational Engineer` in October, and while I wait I am currently working on a handful of open source projects as a member of Mikan Labs, with the goal of making products that are easy for the public to integrate and deploy.
+I am a self-taught software engineer that enjoys experimenting with new technologies, tools, and languages. My life has taken me to some of the largest cities in the world, where I was able to solve a wide variety of software engineering problems across multiple industries and tech stacks. After helping the team at `Scale AI` qualify prospective machine learning and software engineering candidates, the next and hopefully final stop on my journey will be to `Meta Platforms, Inc.` as a `Rotational Engineer`. I am currently spending my freetime working on open source projects as a member of `Mikan Labs` and building `Reclaimia`, a turn-based strategy game I am making with plain old React. (Why plain old React? I was told it was not possible to create a game like this with it. I want to test the validity of that statement.)
 
-Beyond coding professionally, I create educational JavaScript focused videos over on my YouTube channel in an effort to repay my debt to the tech world that helped me build my skills for free, and tech focused articles over at Dev Design Daily that tackle some more niche issues.
+Beyond coding professionally and casually, I also occasionally create educational JavaScript focused videos over on my YouTube channel in an effort to repay my debt to the tech world that helped me build my skills for free.
 
    <p align="left">
       <a href="https://www.youtube.com/@web3idiots?sub_confirmation=1">
@@ -18,7 +18,7 @@ Beyond coding professionally, I create educational JavaScript focused videos ove
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
