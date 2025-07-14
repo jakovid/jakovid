@@ -36,7 +36,7 @@ If you're into software, storytelling, or the occasional hot take — come hang 
 **Frameworks**: React, Next.js, Remix, Express.js, Node.js, React Native  
 **Styling**: Tailwind CSS, Chakra UI  
 **Databases**: MongoDB, SQLite  
-**Testing & DevOps**: Jest, Docker, Tilt, AWS, Firebase, REST APIs
+**Testing & DevOps**: Jest, Docker, Tilt, AWS, Firebase, REST APIs  
 **Other**: Git, GitHub, DigitalOcean, Postman, Redux, Flow
 
 ---
