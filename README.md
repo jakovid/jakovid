@@ -2,11 +2,11 @@
 
 **`Builder • Performer • Educator • Technologist `**
 
-I'm a self-taught software engineer currently working at **Meta** in the Monetization org for the past few months, where I have built internal tools that save the org **5,000+ dev hours a year**. Before that, I worked for **Scale AI**, where I interviewed over 100 machine learning and software engineering candidates to help grow world-class technical teams.
+I'm a self-taught software engineer currently working at **Meta** in the Applied AI org (Previously Monetization - DevX and Infrastructure - Data Center Tooling). Before that, I worked for **Scale AI**, where I interviewed over 100 machine learning and software engineering candidates to help grow world-class technical teams.
 
 Previously, I led the full-stack development at a small education company, co-founded a tourism startup, and contributed to open-source projects at **Mikan Labs**. My career has taken me across Asia, through several industries, and into engineering roles — all rooted in a deep love for solving meaningful problems with code.
 
-I'm open to new opportunities at **FAANG-level companies** or **mission-driven startups**, and I'm always looking to build cool stuff with great people.
+I'm open to new opportunities, and I'm always looking to build cool stuff with great people.
 
 ---
 
